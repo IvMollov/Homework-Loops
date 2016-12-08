@@ -1,0 +1,5 @@
+D:\Projects\Homework Loops\Homework-Loops\Homework-Loops\Loops\Problem No.11 Palindrome\bin\Debug\Problem No.11 Palindrome.exe.config
+D:\Projects\Homework Loops\Homework-Loops\Homework-Loops\Loops\Problem No.11 Palindrome\bin\Debug\Problem No.11 Palindrome.exe
+D:\Projects\Homework Loops\Homework-Loops\Homework-Loops\Loops\Problem No.11 Palindrome\bin\Debug\Problem No.11 Palindrome.pdb
+D:\Projects\Homework Loops\Homework-Loops\Homework-Loops\Loops\Problem No.11 Palindrome\obj\Debug\Problem No.11 Palindrome.exe
+D:\Projects\Homework Loops\Homework-Loops\Homework-Loops\Loops\Problem No.11 Palindrome\obj\Debug\Problem No.11 Palindrome.pdb

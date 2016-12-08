@@ -1,0 +1,5 @@
+D:\Projects\Homework Loops\Homework-Loops\Homework-Loops\Loops\Problem No.6 Greatest common divisor\bin\Debug\Problem No.6 Greatest common divisor.exe.config
+D:\Projects\Homework Loops\Homework-Loops\Homework-Loops\Loops\Problem No.6 Greatest common divisor\bin\Debug\Problem No.6 Greatest common divisor.exe
+D:\Projects\Homework Loops\Homework-Loops\Homework-Loops\Loops\Problem No.6 Greatest common divisor\bin\Debug\Problem No.6 Greatest common divisor.pdb
+D:\Projects\Homework Loops\Homework-Loops\Homework-Loops\Loops\Problem No.6 Greatest common divisor\obj\Debug\Problem No.6 Greatest common divisor.exe
+D:\Projects\Homework Loops\Homework-Loops\Homework-Loops\Loops\Problem No.6 Greatest common divisor\obj\Debug\Problem No.6 Greatest common divisor.pdb

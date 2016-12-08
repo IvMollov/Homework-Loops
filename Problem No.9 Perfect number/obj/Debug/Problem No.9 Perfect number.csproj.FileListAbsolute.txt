@@ -1,0 +1,5 @@
+D:\Projects\Homework Loops\Homework-Loops\Homework-Loops\Loops\Problem No.9 Perfect number\bin\Debug\Problem No.9 Perfect number.exe.config
+D:\Projects\Homework Loops\Homework-Loops\Homework-Loops\Loops\Problem No.9 Perfect number\bin\Debug\Problem No.9 Perfect number.exe
+D:\Projects\Homework Loops\Homework-Loops\Homework-Loops\Loops\Problem No.9 Perfect number\bin\Debug\Problem No.9 Perfect number.pdb
+D:\Projects\Homework Loops\Homework-Loops\Homework-Loops\Loops\Problem No.9 Perfect number\obj\Debug\Problem No.9 Perfect number.exe
+D:\Projects\Homework Loops\Homework-Loops\Homework-Loops\Loops\Problem No.9 Perfect number\obj\Debug\Problem No.9 Perfect number.pdb

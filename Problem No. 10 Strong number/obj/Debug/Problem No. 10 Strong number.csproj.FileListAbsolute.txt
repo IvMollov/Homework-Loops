@@ -1,0 +1,5 @@
+D:\Projects\Homework Loops\Homework-Loops\Homework-Loops\Loops\Problem No. 10 Strong number\bin\Debug\Problem No. 10 Strong number.exe.config
+D:\Projects\Homework Loops\Homework-Loops\Homework-Loops\Loops\Problem No. 10 Strong number\bin\Debug\Problem No. 10 Strong number.exe
+D:\Projects\Homework Loops\Homework-Loops\Homework-Loops\Loops\Problem No. 10 Strong number\bin\Debug\Problem No. 10 Strong number.pdb
+D:\Projects\Homework Loops\Homework-Loops\Homework-Loops\Loops\Problem No. 10 Strong number\obj\Debug\Problem No. 10 Strong number.exe
+D:\Projects\Homework Loops\Homework-Loops\Homework-Loops\Loops\Problem No. 10 Strong number\obj\Debug\Problem No. 10 Strong number.pdb
