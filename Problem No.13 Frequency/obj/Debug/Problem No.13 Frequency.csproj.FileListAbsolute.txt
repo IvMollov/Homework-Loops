@@ -1,0 +1,5 @@
+D:\Projects\Homework Loops\Homework-Loops\Problem No.13 Frequency\bin\Debug\Problem No.13 Frequency.exe.config
+D:\Projects\Homework Loops\Homework-Loops\Problem No.13 Frequency\bin\Debug\Problem No.13 Frequency.exe
+D:\Projects\Homework Loops\Homework-Loops\Problem No.13 Frequency\bin\Debug\Problem No.13 Frequency.pdb
+D:\Projects\Homework Loops\Homework-Loops\Problem No.13 Frequency\obj\Debug\Problem No.13 Frequency.exe
+D:\Projects\Homework Loops\Homework-Loops\Problem No.13 Frequency\obj\Debug\Problem No.13 Frequency.pdb

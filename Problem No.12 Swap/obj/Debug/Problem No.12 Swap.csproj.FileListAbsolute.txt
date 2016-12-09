@@ -1,0 +1,5 @@
+D:\Projects\Homework Loops\Homework-Loops\Problem No.12 Swap\bin\Debug\Problem No.12 Swap.exe.config
+D:\Projects\Homework Loops\Homework-Loops\Problem No.12 Swap\bin\Debug\Problem No.12 Swap.exe
+D:\Projects\Homework Loops\Homework-Loops\Problem No.12 Swap\bin\Debug\Problem No.12 Swap.pdb
+D:\Projects\Homework Loops\Homework-Loops\Problem No.12 Swap\obj\Debug\Problem No.12 Swap.exe
+D:\Projects\Homework Loops\Homework-Loops\Problem No.12 Swap\obj\Debug\Problem No.12 Swap.pdb

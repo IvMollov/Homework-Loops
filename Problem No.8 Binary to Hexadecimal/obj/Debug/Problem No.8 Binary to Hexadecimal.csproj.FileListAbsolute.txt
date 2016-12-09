@@ -1,0 +1,6 @@
+D:\Projects\Homework Loops\Homework-Loops\Problem No.8 Binary to Hexadecimal\bin\Debug\Problem No.8 Binary to Hexadecimal.exe.config
+D:\Projects\Homework Loops\Homework-Loops\Problem No.8 Binary to Hexadecimal\bin\Debug\Problem No.8 Binary to Hexadecimal.exe
+D:\Projects\Homework Loops\Homework-Loops\Problem No.8 Binary to Hexadecimal\bin\Debug\Problem No.8 Binary to Hexadecimal.pdb
+D:\Projects\Homework Loops\Homework-Loops\Problem No.8 Binary to Hexadecimal\obj\Debug\Problem No.8 Binary to Hexadecimal.csprojResolveAssemblyReference.cache
+D:\Projects\Homework Loops\Homework-Loops\Problem No.8 Binary to Hexadecimal\obj\Debug\Problem No.8 Binary to Hexadecimal.exe
+D:\Projects\Homework Loops\Homework-Loops\Problem No.8 Binary to Hexadecimal\obj\Debug\Problem No.8 Binary to Hexadecimal.pdb

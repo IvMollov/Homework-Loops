@@ -23,6 +23,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem No. 10 Strong numbe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem No.11 Palindrome", "Problem No.11 Palindrome\Problem No.11 Palindrome.csproj", "{4DA869BD-6AC0-4B4D-BD02-736DB5BEC09C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem No.8 Binary to Hexadecimal", "Problem No.8 Binary to Hexadecimal\Problem No.8 Binary to Hexadecimal.csproj", "{B7A02A14-BA6F-4F17-8096-A90AFB64196D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem No.12 Swap", "Problem No.12 Swap\Problem No.12 Swap.csproj", "{2A019162-7E4C-443A-9805-5287FA517048}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem No.13 Frequency", "Problem No.13 Frequency\Problem No.13 Frequency.csproj", "{9673D77A-E676-449D-BD32-9B3FBC55B0EA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem No.14 Spiral", "Problem No.14 Spiral\Problem No.14 Spiral.csproj", "{37A0746D-07BB-496E-9207-37EF26780D9A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Problem No.15 Pascal Triangle", "Problem No.15 Pascal Triangle\Problem No.15 Pascal Triangle.csproj", "{FAD17BA9-AC25-4904-841C-DBC8D7047ACC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -69,6 +79,26 @@ Global
 		{4DA869BD-6AC0-4B4D-BD02-736DB5BEC09C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4DA869BD-6AC0-4B4D-BD02-736DB5BEC09C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4DA869BD-6AC0-4B4D-BD02-736DB5BEC09C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7A02A14-BA6F-4F17-8096-A90AFB64196D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7A02A14-BA6F-4F17-8096-A90AFB64196D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7A02A14-BA6F-4F17-8096-A90AFB64196D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7A02A14-BA6F-4F17-8096-A90AFB64196D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A019162-7E4C-443A-9805-5287FA517048}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A019162-7E4C-443A-9805-5287FA517048}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A019162-7E4C-443A-9805-5287FA517048}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A019162-7E4C-443A-9805-5287FA517048}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9673D77A-E676-449D-BD32-9B3FBC55B0EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9673D77A-E676-449D-BD32-9B3FBC55B0EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9673D77A-E676-449D-BD32-9B3FBC55B0EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9673D77A-E676-449D-BD32-9B3FBC55B0EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37A0746D-07BB-496E-9207-37EF26780D9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37A0746D-07BB-496E-9207-37EF26780D9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37A0746D-07BB-496E-9207-37EF26780D9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37A0746D-07BB-496E-9207-37EF26780D9A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FAD17BA9-AC25-4904-841C-DBC8D7047ACC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FAD17BA9-AC25-4904-841C-DBC8D7047ACC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FAD17BA9-AC25-4904-841C-DBC8D7047ACC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FAD17BA9-AC25-4904-841C-DBC8D7047ACC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,5 @@
+D:\Projects\Homework Loops\Homework-Loops\Problem No.15 Pascal Triangle\bin\Debug\Problem No.15 Pascal Triangle.exe.config
+D:\Projects\Homework Loops\Homework-Loops\Problem No.15 Pascal Triangle\bin\Debug\Problem No.15 Pascal Triangle.exe
+D:\Projects\Homework Loops\Homework-Loops\Problem No.15 Pascal Triangle\bin\Debug\Problem No.15 Pascal Triangle.pdb
+D:\Projects\Homework Loops\Homework-Loops\Problem No.15 Pascal Triangle\obj\Debug\Problem No.15 Pascal Triangle.exe
+D:\Projects\Homework Loops\Homework-Loops\Problem No.15 Pascal Triangle\obj\Debug\Problem No.15 Pascal Triangle.pdb

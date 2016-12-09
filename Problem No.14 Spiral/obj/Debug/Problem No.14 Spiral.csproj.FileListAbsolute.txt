@@ -1,0 +1,5 @@
+D:\Projects\Homework Loops\Homework-Loops\Problem No.14 Spiral\bin\Debug\Problem No.14 Spiral.exe.config
+D:\Projects\Homework Loops\Homework-Loops\Problem No.14 Spiral\bin\Debug\Problem No.14 Spiral.exe
+D:\Projects\Homework Loops\Homework-Loops\Problem No.14 Spiral\bin\Debug\Problem No.14 Spiral.pdb
+D:\Projects\Homework Loops\Homework-Loops\Problem No.14 Spiral\obj\Debug\Problem No.14 Spiral.exe
+D:\Projects\Homework Loops\Homework-Loops\Problem No.14 Spiral\obj\Debug\Problem No.14 Spiral.pdb
