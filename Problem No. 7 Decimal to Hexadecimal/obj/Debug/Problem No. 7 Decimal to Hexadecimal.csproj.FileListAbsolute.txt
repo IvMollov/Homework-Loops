@@ -3,3 +3,9 @@ D:\Projects\Homework Loops\Homework-Loops\Homework-Loops\Loops\Problem No. 7 Dec
 D:\Projects\Homework Loops\Homework-Loops\Homework-Loops\Loops\Problem No. 7 Decimal to Hexadecimal\bin\Debug\Problem No. 7 Decimal to Hexadecimal.pdb
 D:\Projects\Homework Loops\Homework-Loops\Homework-Loops\Loops\Problem No. 7 Decimal to Hexadecimal\obj\Debug\Problem No. 7 Decimal to Hexadecimal.exe
 D:\Projects\Homework Loops\Homework-Loops\Homework-Loops\Loops\Problem No. 7 Decimal to Hexadecimal\obj\Debug\Problem No. 7 Decimal to Hexadecimal.pdb
+D:\Projects\Homework Loops\Homework-Loops\Problem No. 7 Decimal to Hexadecimal\bin\Debug\Problem No. 7 Decimal to Hexadecimal.exe.config
+D:\Projects\Homework Loops\Homework-Loops\Problem No. 7 Decimal to Hexadecimal\obj\Debug\Problem No. 7 Decimal to Hexadecimal.exe
+D:\Projects\Homework Loops\Homework-Loops\Problem No. 7 Decimal to Hexadecimal\obj\Debug\Problem No. 7 Decimal to Hexadecimal.pdb
+D:\Projects\Homework Loops\Homework-Loops\Problem No. 7 Decimal to Hexadecimal\bin\Debug\Problem No. 7 Decimal to Hexadecimal.exe
+D:\Projects\Homework Loops\Homework-Loops\Problem No. 7 Decimal to Hexadecimal\bin\Debug\Problem No. 7 Decimal to Hexadecimal.pdb
+D:\Projects\Homework Loops\Homework-Loops\Problem No. 7 Decimal to Hexadecimal\obj\Debug\Problem No. 7 Decimal to Hexadecimal.csprojResolveAssemblyReference.cache
